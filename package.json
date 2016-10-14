@@ -3,6 +3,7 @@
   "scripts": {
 	"release": "conventional-github-releaser -p angular",
 	"release-help": "conventional-github-releaser --help",
-	"changelog-atom": "conventional-changelog -p atom -i CHANGELOG.md -s"
+	"changelog-atom": "conventional-changelog -p atom -i CHANGELOG.md -s",
+	"changelog": "conventional-changelog"
    }
 }
