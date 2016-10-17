@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "scripts": {
 	"release": "conventional-github-releaser -p angular",
 	"release-help": "conventional-github-releaser --help",
