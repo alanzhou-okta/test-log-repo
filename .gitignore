@@ -3,7 +3,7 @@ logs
 *.log
 npm-debug.log*
 .idea
-
+conventional-github-releaser
 # Runtime data
 pids
 *.pid
